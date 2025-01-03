@@ -2,4 +2,4 @@ pandas
 numpy
 streamlit
 mysql-connector-python
-pickle
+pickle5
