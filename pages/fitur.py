@@ -32,7 +32,7 @@ else:
 
     if add_selectbox == 'Fitur 1':
 
-        api_key = '7505104a245774ae2dd85756ed3716dd'
+        api_key = ''
 
         geo_data = {'Jakarta Utara':(-6.1358859, 106.8419005), 'Jakarta Barat':(-6.1601623,106.6746857), 
                     'Jakarta Timur':(-6.2611416,106.8224464), 'Jakarta Pusat':(-6.1823114,106.7951789), 
